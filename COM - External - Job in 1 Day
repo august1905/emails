@@ -157,10 +157,10 @@
 															<td class="pad" style="padding-bottom:20px;padding-left:25px;padding-right:25px;padding-top:20px;">
 																<div style="font-family: 'Trebuchet MS', Tahoma, sans-serif">
 																	<div class="" style="font-size: 12px; font-family: &quot;Montserrat&quot;, &quot;Trebuchet MS&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida Sans&quot;, Tahoma, sans-serif; color: rgb(85, 85, 85); line-height: 1.5; --darkreader-inline-color: var(--darkreader-text-555555, #b2aca2);" data-darkreader-inline-color="">
-																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">Hi {{customer_first_name}},</span></p>
+																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">Hi ${Service Appointments.Contact},</span></p>
 																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 18px;">&nbsp;</p>
-																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;">This is a reminder that your upcoming cleaning service - {{job_title}} -&nbsp;</p>
-																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">is scheduled to start tomorrow at&nbsp;<strong>{{scheduled_start_time}}.&nbsp;</strong></span></p><p style="margin: 0; font-size: 16px; mso-line-height-alt: 18px;">&nbsp;</p>
+																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;">This is a reminder that your upcoming cleaning service - ${Service Appointments.Appointment Title} -&nbsp;</p>
+																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">is scheduled to start tomorrow at&nbsp;<strong>${Service Appointments.Scheduled Start Date Time}.&nbsp;</strong></span></p><p style="margin: 0; font-size: 16px; mso-line-height-alt: 18px;">&nbsp;</p>
 																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">Please give us a call at 608.836.8025 if you have any questions or email service@skylineclean.com.&nbsp;</span></p><p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;"><br></span></p>
 																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 18px;">&nbsp;</p>
 																		<p style="margin: 0; font-size: 16px; mso-line-height-alt: 24px;"><span style="word-break: break-word; font-size: 16px;">Thank you!</span></p>
